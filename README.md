@@ -3,8 +3,7 @@
 **File Foundry** is a lightweight, browser-based tool that lets you instantly generate downloadable ZIP archives with custom folder and file structures.  
 No backend, no installs, no setup — everything runs **100% client-side** in your browser.
 
-![File Foundry Live Link]([https://notoolsnocraft.github.io/File-Foundry/)
-
+Live link: https://notoolsnocraft.github.io/File-Foundry/
 ---
 
 ## ✨ Features
